@@ -1313,7 +1313,7 @@ body {
       font-size: 20px; } }
 
 .presentation__btns-container {
-  max-width: 390px;
+  max-width: 400px;
   margin-top: 45px; }
   @media (max-width: 479px) {
     .presentation__btns-container {
