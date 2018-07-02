@@ -1442,7 +1442,6 @@ body {
   width: 71%;
   display: flex;
   align-items: center;
-  flex-basis: 555px;
   /*  media*/ }
   @media (max-width: 979px) {
     .results__photo {
